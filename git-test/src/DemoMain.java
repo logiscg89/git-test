@@ -4,6 +4,9 @@ public class DemoMain {
 		
 		System.out.println("ㅋㅋㅋㅋ");
 		
+		System.out.println("ㅎㅎㅎ");
+		System.out.println("ㅋㄷㅋㄷㅋㄷ");
+		
 	}
 	
 }
